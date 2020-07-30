@@ -1,6 +1,6 @@
 ### Hi there 👋 here is my Dino pet...
 
-![dino-export-c](https://user-images.githubusercontent.com/46622469/88916867-7e46e680-d26f-11ea-9552-9579ad63389c.png) 
+![dino-bird](https://user-images.githubusercontent.com/46622469/88928350-6a0be500-d281-11ea-9b96-b79cf9b23f17.png)
 
 <!--
 **Laurynas-3D/Laurynas-3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
